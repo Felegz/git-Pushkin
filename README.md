@@ -17,3 +17,5 @@ https://github.com/Felegz/lit-changes/commit/e70acbe32ba5c1f92ba0891d38bd14b10a8
 
 С. Есенин — Собаке Качалова
 https://github.com/Felegz/lit-changes/commit/6bd91085b3c67c231a7311a72590cfdeaa8df9b5
+
+![Image of Yaktocat](https://github.com/Felegz/git-Pushkin/blob/ae0fec35c27c4612e9d0b5ee9041f7c70965758b/A.%20Фет%20—%20Шёпот,%20робкое%20дыханье.jpg?raw=true)
